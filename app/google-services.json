@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207003999740",
+    "project_id": "cheersfor-ebde2",
+    "storage_bucket": "cheersfor-ebde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207003999740:android:8596e2da0c4437da4ea679",
+        "android_client_info": {
+          "package_name": "com.example.cheersfor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZrXCB3Vyp09PxxpUlKS2_ozXrZnmO70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
